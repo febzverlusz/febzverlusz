@@ -20,7 +20,6 @@
 <p align="left">
   <!-- Game Engine (Sesuaikan/Hapus yang tidak dipakai) -->
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
-  <img src="https://img.shields.io/badge/Godot%20Engine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot" />
   
   <!-- Bahasa Pemrograman Game -->
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
